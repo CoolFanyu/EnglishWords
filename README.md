@@ -1,6 +1,8 @@
 # EnglishWords
 This application helps me to remember English words
 
+# Test commit
+
 Version 0
 1. Added feature "Add words to list"
 2. Added feature "Exam"
